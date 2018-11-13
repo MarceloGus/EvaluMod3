@@ -7,11 +7,11 @@ body{
 }
 
 }
-h3{
+p{
   padding: 3px;
   margin: auto;
   font-family: sans-serif;
-  font-size: 31px !important;
+  font-size: 51px !important;
 }
 .tip{
   border:1px solid black;
@@ -23,7 +23,7 @@ h3{
   padding: 0px;
 }
 .logo{
-  height: 160px;
+  height: 190px;
   margin-top: 15px;
 }
 .left-sidebar ul{
@@ -46,11 +46,11 @@ h3{
   background: none;
 }
 .img-lat{
-  height: 500px;
+  height: 460px;
   width: 100%;
 }
 .img-cent{
-  height: 1000px;
+  height: 960px;
   width: 100%;
 }
 
