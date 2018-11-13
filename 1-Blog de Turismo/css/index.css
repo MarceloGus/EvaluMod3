@@ -46,13 +46,31 @@ p{
   background: none;
 }
 .img-lat{
-  height: 460px;
-  width: 100%;
+  height: 430px;
+  width: 90%;
 }
 .img-cent{
-  height: 960px;
+  height: 870px;
+  width: 80%;
+}
+.img-plan{
+  height: 200px;
   width: 100%;
 }
+.articulo1{
+  font-size: 20px;
+  font-style: italic;
+}
+.contenedor-parrafo{
+ margin-top: 0px;
+ padding: 0px;
+}
+.contenedor-entrada{
+ margin: 10px;
+ padding: 10px;
+ border:10px;
+}
+
 
 
 
