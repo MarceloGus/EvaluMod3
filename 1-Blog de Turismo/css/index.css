@@ -25,6 +25,14 @@ body{
 .logo{
   height: 160px;
 }
+.left-sidebar ul{
+  border: none;
+}
+.left-sidebar i.fa{
+  padding: 8px;
+  font-size: 35px;
+  color:#444;
+}
 
 
 
