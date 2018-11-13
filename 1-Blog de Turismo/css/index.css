@@ -43,8 +43,14 @@ body{
 }
 .collection-may{
   background: none;
- 
-  
+}
+.img-lat{
+  height: 500px;
+  width: 100%;
+}
+.img-cent{
+  height: 1000px;
+  width: 100%;
 }
 
 
