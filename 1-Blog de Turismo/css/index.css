@@ -6,12 +6,17 @@ body{
   height: 100%;  
 }
 
-}
 p{
   padding: 3px;
   margin: auto;
-  font-family: sans-serif;
-  font-size: 51px !important;
+  font-family: Roboto-Medium;
+  font-size: 21px;
+}
+h4{
+  font-family: Roboto-Medium;
+}
+h3{
+  font-family: Roboto-Medium;
 }
 .tip{
   border:1px solid black;
@@ -23,7 +28,7 @@ p{
   padding: 0px;
 }
 .logo{
-  height: 190px;
+  height: 160px;
   margin-top: 15px;
 }
 .left-sidebar ul{
@@ -39,7 +44,7 @@ p{
   border-radius: 8px;
 }
 .left-sidebar li{
-  padding: 15px;
+ padding:15px;
   margin:auto;
 }
 .collection-may{
@@ -47,15 +52,20 @@ p{
 }
 .img-lat{
   height: 430px;
-  width: 90%;
+  width: 95%;
+
 }
 .img-cent{
   height: 870px;
-  width: 80%;
+  width: 95%;
 }
 .img-plan{
   height: 200px;
   width: 100%;
+}
+.img-autor{
+  width: 310px;
+  height: 310px;
 }
 .articulo1{
   font-size: 20px;
@@ -68,7 +78,11 @@ p{
 .contenedor-entrada{
  margin: 10px;
  padding: 10px;
- border:10px;
+ border: 10px;
+}
+.marco{
+  background-color: none;
+  margin-top: 10px;
 }
 
 
