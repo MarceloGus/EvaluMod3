@@ -1,5 +1,5 @@
 body{
-  background: url(../img/Organización-Mundial-del-Turismo.jpg);
+  background: url(../img/Organización-Mundial-del-Turismo2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -50,23 +50,30 @@ h3{
 .collection-may{
   background: none;
 }
-.img-lat{
-  height: 430px;
-  width: 95%;
 
+.img-lat{
+  height: auto;
+  width: 95%;
 }
 .img-cent{
-  height: 870px;
+  height: auto;
   width: 95%;
 }
+
 .img-plan{
-  height: 200px;
+  height: 80%;
   width: 100%;
 }
-.img-autor{
-  width: 310px;
-  height: 310px;
+.img-ent{
+  height: 150%;
+  width: 85%;
 }
+
+.img-autor{
+  width: 75%;
+  height: 75%;
+}
+
 .articulo1{
   font-size: 20px;
   font-style: italic;
@@ -84,6 +91,10 @@ h3{
   background-color: none;
   margin-top: 10px;
 }
+.notapie{
+  margin-top: 0px;
+}
+
 
 
 
