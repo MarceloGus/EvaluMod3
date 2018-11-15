@@ -9,17 +9,11 @@ body{
 .main{
 	background: rgba(46, 119, 148, 0.42);
 }
-.logo-img{
-  width: 30%;
+
+.text-center{
+	text-align: center;
 }
 
-img{
-  max-height: 129px;
-}
-
-div.secondary.callout.text-center{
-  min-height: 242px;
-}
 .tip{
 	border: 3px solid black;
 }
@@ -31,5 +25,37 @@ div.secondary.callout.text-center{
 	border: 2px solid white;
 	margin:5px;
 	width: 110%;
-	height: 190%;
+	max-height: 15	0%;
 }
+a{
+	color:#0C0B0B;
+	text-align: center;
+}
+.busca{
+	background: none;
+	padding:5px;
+}
+.blue{
+	background: rgba(46, 119, 148, 1);
+	padding:15px;
+}
+.pub{
+	color: #FAFBFD;
+	text-align: center;
+}
+.centrado{
+	text-align: center;
+	
+}
+.com{
+	color: #060606;
+	text-align: center;
+}
+.menu-vertical{
+	text-align: center;
+	margin:0px;
+}
+.hola{
+	margin-left: 35%;
+}
+
