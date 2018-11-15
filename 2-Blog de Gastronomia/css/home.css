@@ -1,0 +1,35 @@
+body{
+	background: url(../img/micocina.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-attachment:fixed;
+  	 
+  	font-family: Verdana;
+}
+.main{
+	background: rgba(46, 119, 148, 0.42);
+}
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+.tip{
+	border: 3px solid black;
+}
+.button{
+	background: #54B1CC;
+	text-align: center;
+}
+.fav{
+	border: 2px solid white;
+	margin:5px;
+	width: 110%;
+	height: 190%;
+}
