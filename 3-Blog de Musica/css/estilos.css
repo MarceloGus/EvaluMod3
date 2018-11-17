@@ -37,9 +37,9 @@ body{
   width: 100%;  
 }
 .buscador {
-  margin:5px;
-  padding: none;
-  background: rgba(230, 184, 65, 0.85);   
+  margin-top: 7px;
+  padding: 5px;
+  background: rgba(230, 184, 65, 0.85);
 }
 .opciones {
   margin:5px;
@@ -47,10 +47,20 @@ body{
   background: rgba(230, 184, 65, 0.85); 
 }
 .base{
-  margin:5px;
+  margin: 5px;
   padding: 3px;
 }
 .img-publi{
   width: 100%;
   height: auto;
+  margin-top: 55px;
 }
+.comentario {
+  margin-top: 3px;
+  padding: 5px;
+}
+.img-social{
+  padding-top: 135px;
+}
+
+
