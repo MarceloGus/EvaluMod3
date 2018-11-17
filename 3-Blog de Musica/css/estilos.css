@@ -1,0 +1,15 @@
+
+/* Clase para darle estilos a la barra de navegacion */
+.navbar-inverse {
+  background: rgba(51, 153, 204, 0.65);
+  min-height: 10%;
+  border: none;
+}
+/* Clase para darle estilos al logo de la pagina */
+.logo-img{
+  width: 10%;
+}
+.tip{
+  border: 1px solid black;
+}
+
